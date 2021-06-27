@@ -8,5 +8,6 @@ public class Test {
         System.out.println("aaa");
         System.out.println("master");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
